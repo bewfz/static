@@ -1,13 +1,17 @@
 # Outline of Sichuan Opera "Rolling Lamp"
 
-## 1. Introduction to the Play
-- "Rolling Lamp" is a traditional short play in Sichuan Opera, mainly showcasing the unique skill of lamp balancing.
-- The story narrates the life of a commoner named Pi Jin, who is addicted to gambling but fears his wife.
-- The play is well-loved by the audience for its exaggerated characters and humorously entertaining performance.
+## 1. General  introduction to the Play
+- "Rolling Lamp" is a traditional short play in Sichuan Opera, mainly  showing the unique skill of lamp balancing.
 
 ## 2. Main Characters
-- Pi Jin: A commoner who is idle and unproductive, addicted to gambling, and fears his wife.
-- Du's: Pi Jin's wife who is very dissatisfied with his gambling and thinks of various ways to make things difficult for him.
+- Pi Jin: A commoner who is addicted to gambling, and fears his wife.
+
+![PiJin](https://github.com/bewfz/static/assets/78918999/1702a04c-bd40-4b41-9c96-3ab775830bdf)
+
+- Du: Pi Jin's wife who is very dissatisfied with his gambling and thinks of various ways to make things difficult for him.
+
+![IMG_3870](https://github.com/bewfz/static/assets/78918999/117b646d-656d-4546-8437-ad03ddf2a70e)
+
 - Pi Jin's daughter: She plays a role in adjusting the plot, helping her mother control her father and secretly helping her father out of trouble.
 
 ## 3. Lamp Balancing Performance
