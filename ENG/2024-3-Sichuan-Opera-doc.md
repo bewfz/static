@@ -20,7 +20,9 @@
 
 
 
-https://github.com/bewfz/static/assets/78918999/69f66f0d-0c92-446d-aea4-599cf09b1f3e
+<video id="video" controls="" preload="none" >
+      <source id="mp4" src="./Asset/showcast.mp4" type="video/mp4">
+</videos>
 
 
 
