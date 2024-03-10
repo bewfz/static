@@ -18,9 +18,8 @@
 - Under the order of Du, Pi Jin balances a lamp on his head and performs a series of difficult actions.
 - The lamp balancing performance is both thrilling *令人激动的* like acrobatics *杂技* and enduring *不朽的* like Sichuan Opera, demonstrating *展示* the actor's superb *杰出的* skills.
 
-[Video](./Asset/showcast.mp4)
 
-<a href="./Asset/showcast.mp4" target="_blank">Video</a>
+### <a href="./Asset/showcast.mp4" target="_blank">Video of acrobatics</a>
 
 ## 4. Evolution of the Play
 - "Rolling Lamp" was originally part of the play "Worshiping the Mallet". Later, to adapt to the needs of the performance market, Sichuan Opera artists simplified *简化* the plot *情节* and performance, emphasizing *强调* the "lamp balancing" skill of the actors.
