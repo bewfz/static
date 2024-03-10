@@ -1,4 +1,3 @@
-
 # Outline of Sichuan Opera "Rolling Lamp"
 
 ## 1. Introduction to the Play
